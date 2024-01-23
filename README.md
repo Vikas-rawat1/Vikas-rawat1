@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Rawat</h1>
 <h3 align="center">A passionate and enthusiastic frontend developer from India with hands-on experience in building websites with web technologies including HTML, CSS, JS and MYSQL.</h3>
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt=""/>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikas-rawat1?tab=repositories](https://github.com/Vikas-rawat1?tab=repositories)
