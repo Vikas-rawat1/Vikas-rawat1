@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Rawat</h1>
-<h3 align="center">A passionate and enthusiastic frontend developer with hands-on experience in building websites with web technologies including HTML, CSS, JS and MYSQL.</h3>
+<h3 align="center">A passionate and enthusiastic frontend developer with hands-on experience in building websites with web technologies including HTML, CSS, JS ,React ,Tailwind Css and MYSQL.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikas-rawat1?tab=repositories](https://github.com/Vikas-rawat1?tab=repositories)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,MYSQL**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,MYSQL,REACT**
 
 - 📫 How to reach me **rawatvikas689@gmail.com**
 
