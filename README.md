@@ -2,6 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=vikas-rawat1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/abdd9e60-2a45-41fe-aeb7-89844e3c60bf" alt="Profile Home" />
+</p>
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vikas-rawat1&theme=tokyonight&no-frame=true&no-bg=true&style=flat" alt="Trophies" />
 </p>
