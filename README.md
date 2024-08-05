@@ -1,6 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-rawat1&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-rawat1" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-rawat1" alt="vikas-rawat1" /></a> </p>
+
+
 <h1 align="center">Hi 👋, I'm Vikas Rawat</h1>
-<h3 align="center">A passionate and enthusiastic frontend developer with hands-on experience in building websites with web technologies including HTML, CSS, JS ,React ,Tailwind Css and MYSQL.</h3>
+<h3 align="center"> 🚀 A passionate and enthusiastic frontend developer with hands-on experience in crafting dynamic and responsive websites.🚀 </h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -8,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikas-rawat1?tab=repositories](https://github.com/Vikas-rawat1?tab=repositories)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,MYSQL,REACT**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rawatvikas689@gmail.com**
 
