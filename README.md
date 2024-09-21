@@ -21,7 +21,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <ul style="list-style-type: none; padding: 0; color: #e0e0e0; font-size: 1.2em;">
-  <li>🌱 I’m currently learning <strong>Web Development</strong></li>
+  <li>🌱 I’m currently learning <strong>Modern Web Development</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/Vikas-rawat1?tab=repositories" style="color: #f5a623;">GitHub Repositories</a></li>
   <li>💬 Ask me about <strong>Web Development</strong></li>
   <li>📫 How to reach me: <a href="mailto:rawatvikas689@gmail.com" style="color: #f5a623;">rawatvikas689@gmail.com</a></li>
