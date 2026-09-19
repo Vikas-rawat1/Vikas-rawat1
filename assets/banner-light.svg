@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 470" width="1280" height="470" role="img" aria-label="Vikas Rawat - I build fast, accessible interfaces for products people use every day.">
+  <rect width="1280" height="470" fill="#F2EFE6"/>
+  <rect x="1.5" y="1.5" width="1277" height="467" fill="none" stroke="#17211B" stroke-width="3"/>
+
+  <g opacity="0.30" fill="none" stroke="#8A8578" stroke-width="1.6">
+    <path d="M 612 214 C 744 150 866 248 992 196 C 1088 156 1150 168 1220 148"/>
+    <path d="M 600 322 C 742 268 852 372 986 316 C 1090 272 1152 292 1222 268"/>
+    <path d="M 624 414 C 766 366 874 452 1006 404 C 1102 369 1156 380 1224 362"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="2.6">
+    <text x="64" y="62" fill="#D8442F" font-weight="700">WEB DEVELOPMENT / FROM FIRST COMMIT TO PRODUCTION</text>
+    <text x="1216" y="62" fill="#8A8578" font-weight="700" text-anchor="end">DEHRADUN / INDIA</text>
+  </g>
+  <line x1="1020" y1="76" x2="1216" y2="76" stroke="#8A8578" stroke-width="1.5"/>
+
+  <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="104" letter-spacing="-3" fill="#17211B">
+    <text x="60" y="198">VIKAS</text>
+    <text x="60" y="296">RAWAT</text>
+  </g>
+
+  <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="19.5" letter-spacing="0.4" fill="#17211B">
+    <text x="64" y="356">I BUILD FAST, ACCESSIBLE INTERFACES</text>
+    <text x="64" y="384">FOR PRODUCTS PEOPLE USE EVERY DAY.</text>
+  </g>
+
+  <text x="64" y="428" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.4" font-weight="700" fill="#8A8578">FRONTEND / CREATIVE WEB / PERFORMANCE</text>
+
+  <path d="M 700 388 C 790 388 822 348 882 322 C 952 292 982 242 1042 212 C 1092 187 1124 176 1168 168"
+        fill="none" stroke="#D8442F" stroke-width="3.2" stroke-linecap="round"/>
+
+  <g>
+    <circle cx="700" cy="388" r="11.5" fill="#F2EFE6" stroke="#17211B" stroke-width="2.6"/>
+    <circle cx="700" cy="388" r="4.2" fill="#E8A33D"/>
+    <circle cx="882" cy="322" r="11.5" fill="#F2EFE6" stroke="#17211B" stroke-width="2.6"/>
+    <circle cx="882" cy="322" r="4.2" fill="#E8A33D"/>
+    <circle cx="1168" cy="168" r="11.5" fill="#F2EFE6" stroke="#17211B" stroke-width="2.6"/>
+    <circle cx="1168" cy="168" r="4.2" fill="#E8A33D"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="722" y="384" font-size="12.5" font-weight="700" letter-spacing="1.6" fill="#17211B">FOUNDATIONS</text>
+    <text x="722" y="402" font-size="11.5" letter-spacing="0.6" fill="#8A8578">html / css / javascript</text>
+
+    <text x="904" y="318" font-size="12.5" font-weight="700" letter-spacing="1.6" fill="#17211B">INTERFACE CRAFT</text>
+    <text x="904" y="336" font-size="11.5" letter-spacing="0.6" fill="#8A8578">react / motion / three.js</text>
+
+    <text x="1146" y="138" font-size="12.5" font-weight="700" letter-spacing="1.6" fill="#17211B" text-anchor="end">SHIPPED PRODUCTS</text>
+    <text x="1146" y="156" font-size="11.5" letter-spacing="0.6" fill="#8A8578" text-anchor="end">performance / seo / scale</text>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="How I work - four principles">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161D27" stroke-width="1"/></pattern><filter id="blur" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="90"/></filter></defs><rect width="1280" height="300" fill="#0B0E13"/><rect width="1280" height="300" fill="url(#g)" opacity="0.5"/><g filter="url(#blur)" opacity="0.16"><circle cx="640" cy="150" r="200" fill="#7A5CFF"/></g>
+<g font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace"><text x="64" y="40" font-size="22" font-weight="700" fill="#FF6B4A" letter-spacing="1">06</text><circle cx="102" cy="33" r="3" fill="#5D6670"/><text x="120" y="40" font-size="22" font-weight="700" fill="#EDEAE2" letter-spacing="4.5">HOW I WORK</text><line x1="274" y1="33" x2="1216" y2="33" stroke="#1E2733" stroke-width="1"/></g>
+<rect x="64" y="116" width="564" height="78" rx="6" fill="#10161F" stroke="#1E2733"/>
+<rect x="64" y="130" width="3" height="50" rx="1.5" fill="#FF6B4A"/>
+<text x="88" y="166" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="26" font-weight="700" fill="#FF6B4A" fill-opacity="0.22">01</text>
+<text x="148" y="161" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#8A929C">Ship the smallest honest version, then iterate in daylight.</text>
+<rect x="652" y="116" width="564" height="78" rx="6" fill="#10161F" stroke="#1E2733"/>
+<rect x="652" y="130" width="3" height="50" rx="1.5" fill="#48D6D2"/>
+<text x="676" y="166" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="26" font-weight="700" fill="#48D6D2" fill-opacity="0.22">02</text>
+<text x="736" y="161" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#8A929C">Semantic HTML first — accessibility is not a phase-two ticket.</text>
+<rect x="64" y="216" width="564" height="78" rx="6" fill="#10161F" stroke="#1E2733"/>
+<rect x="64" y="230" width="3" height="50" rx="1.5" fill="#7A5CFF"/>
+<text x="88" y="266" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="26" font-weight="700" fill="#7A5CFF" fill-opacity="0.22">03</text>
+<text x="148" y="261" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#8A929C">If it runs twice, script it. If it runs weekly, automate it.</text>
+<rect x="652" y="216" width="564" height="78" rx="6" fill="#10161F" stroke="#1E2733"/>
+<rect x="652" y="230" width="3" height="50" rx="1.5" fill="#4ADE80"/>
+<text x="676" y="266" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="26" font-weight="700" fill="#4ADE80" fill-opacity="0.22">04</text>
+<text x="736" y="261" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#8A929C">Readable beats clever — the next reader is usually me.</text>
+</svg>

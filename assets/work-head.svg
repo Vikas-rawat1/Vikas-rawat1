@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 122" width="1280" height="122" role="img" aria-label="Selected work">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161D27" stroke-width="1"/></pattern><filter id="blur" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="90"/></filter></defs><rect width="1280" height="122" fill="#0B0E13"/><rect width="1280" height="122" fill="url(#g)" opacity="0.5"/><g filter="url(#blur)" opacity="0.16"><circle cx="1050" cy="40" r="140" fill="#7A5CFF"/></g>
+<g font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace"><text x="64" y="40" font-size="22" font-weight="700" fill="#FF6B4A" letter-spacing="1">03</text><circle cx="102" cy="33" r="3" fill="#5D6670"/><text x="120" y="40" font-size="22" font-weight="700" fill="#EDEAE2" letter-spacing="4.5">SELECTED WORK</text><line x1="313.6" y1="33" x2="1216" y2="33" stroke="#1E2733" stroke-width="1"/></g>
+<rect y="96" width="1280" height="26" fill="#131B25"/>
+<g font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.5" fill="#5D6670" letter-spacing="2.2"><text x="64" y="113">PROJECT</text><text x="392" y="113">WHAT IT IS</text><text x="1000" y="113">BUILT WITH</text></g>
+</svg>
