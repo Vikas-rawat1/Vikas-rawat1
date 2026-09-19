@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-label="Vikas Rawat - Frontend Developer">
+<defs>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0.00" stop-color="#EDEAE2"/>
+    <stop offset="0.42" stop-color="#EDEAE2"/>
+    <stop offset="0.50" stop-color="#FF6B4A"/>
+    <stop offset="0.58" stop-color="#EDEAE2"/>
+    <stop offset="1.00" stop-color="#EDEAE2"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/>
+  </linearGradient>
+
+  <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="70"/>
+  </filter>
+
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1B222C" stroke-width="1"/>
+  </pattern>
+
+  <clipPath id="clip1"><rect x="64" y="242" width="0" height="30"><animate attributeName="width" dur="13s" repeatCount="indefinite" keyTimes="0;0.1538;0.2692;0.3077;1" values="0;420;420;0;0"/></rect></clipPath>
+  <clipPath id="clip2"><rect x="64" y="242" width="0" height="30"><animate attributeName="width" dur="13s" repeatCount="indefinite" keyTimes="0;0.3077;0.4615;0.5769;0.6154;1" values="0;0;400;400;0;0"/></rect></clipPath>
+  <clipPath id="clip3"><rect x="64" y="242" width="0" height="30"><animate attributeName="width" dur="13s" repeatCount="indefinite" keyTimes="0;0.6154;0.7692;0.9231;1" values="0;0;440;440;0"/></rect></clipPath>
+
+  <style>
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 0%,50% { opacity:1 } 51%,100% { opacity:0 } }
+
+    .drift1 { animation: d1 18s ease-in-out infinite; }
+    .drift2 { animation: d2 22s ease-in-out infinite; }
+    .drift3 { animation: d3 26s ease-in-out infinite; }
+    @keyframes d1 { 0%,100% { transform: translate(0,0) } 50% { transform: translate(120px,40px) } }
+    @keyframes d2 { 0%,100% { transform: translate(0,0) } 50% { transform: translate(-90px,-50px) } }
+    @keyframes d3 { 0%,100% { transform: translate(0,0) } 50% { transform: translate(60px,-70px) } }
+
+    .rise { animation: rise 9s linear infinite; }
+    @keyframes rise {
+      0%   { transform: translateY(0);      opacity: 0 }
+      12%  { opacity: .85 }
+      88%  { opacity: .85 }
+      100% { transform: translateY(-300px); opacity: 0 }
+    }
+  </style>
+</defs>
+
+<rect width="1280" height="420" fill="#0B0E13"/>
+<rect width="1280" height="420" fill="url(#grid)" opacity="0.55"/>
+
+<g filter="url(#soft)" opacity="0.26">
+  <circle class="drift1" cx="210" cy="140" r="125" fill="#FF6B4A"/>
+  <circle class="drift2" cx="1010" cy="330" r="140" fill="#48D6D2"/>
+  <circle class="drift3" cx="640" cy="40" r="105" fill="#7A5CFF"/>
+</g>
+
+<g fill="#48D6D2">
+  <circle class="rise" cx="150"  cy="400" r="1.8" style="animation-delay:0s"/>
+  <circle class="rise" cx="420"  cy="400" r="1.4" style="animation-delay:1.6s"/>
+  <circle class="rise" cx="610"  cy="400" r="2.0" style="animation-delay:3.1s"/>
+  <circle class="rise" cx="860"  cy="400" r="1.5" style="animation-delay:4.4s"/>
+  <circle class="rise" cx="1080" cy="400" r="1.8" style="animation-delay:2.2s"/>
+  <circle class="rise" cx="1210" cy="400" r="1.3" style="animation-delay:6.0s"/>
+</g>
+<g fill="#FF6B4A">
+  <circle class="rise" cx="300"  cy="400" r="1.6" style="animation-delay:5.2s"/>
+  <circle class="rise" cx="760"  cy="400" r="1.7" style="animation-delay:7.3s"/>
+</g>
+
+<rect x="1.5" y="1.5" width="1277" height="417" fill="none" stroke="#222B36" stroke-width="3"/>
+<rect x="0" y="0" width="5" height="420" fill="#FF6B4A"/>
+
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.6" font-weight="700">
+  <text x="64" y="58" fill="#FF6B4A">FRONTEND DEVELOPER / REACT / CREATIVE WEB</text>
+  <text x="1216" y="58" fill="#7A828C" text-anchor="end">INDIA / OPEN TO WORK</text>
+</g>
+<line x1="1050" y1="72" x2="1216" y2="72" stroke="#2C3542" stroke-width="1.5"/>
+
+<text x="60" y="186" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="86" letter-spacing="-2.5" fill="url(#shine)">VIKAS RAWAT</text>
+
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#48D6D2">
+  <g clip-path="url(#clip1)"><text x="64" y="264" textLength="420" lengthAdjust="spacing">I build interfaces that feel fast.</text></g>
+  <g clip-path="url(#clip2)"><text x="64" y="264" textLength="400" lengthAdjust="spacing">React, Redux, and a lot of CSS.</text></g>
+  <g clip-path="url(#clip3)"><text x="64" y="264" textLength="440" lengthAdjust="spacing">Shipping since 2022. Still curious.</text></g>
+</g>
+<rect class="blink" x="64" y="246" width="10" height="22" fill="#FF6B4A">
+  <animate attributeName="x" dur="13s" repeatCount="indefinite"
+           keyTimes="0;0.1538;0.2692;0.3077;0.4615;0.5769;0.6154;0.7692;0.9231;1"
+           values="64;484;484;64;464;464;64;504;504;64"/>
+</rect>
+
+<g>
+  <g fill="none" stroke="#3A4552" stroke-width="1.5">
+    <rect x="64"  y="312" width="158" height="34"/>
+    <rect x="234" y="312" width="150" height="34"/>
+    <rect x="396" y="312" width="196" height="34"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="1.8" font-weight="700" fill="#A8B0BB" text-anchor="middle">
+    <text x="143" y="334">30 REPOSITORIES</text>
+    <text x="309" y="334">SINCE 2022</text>
+    <text x="494" y="334">OPEN TO COLLABORATE</text>
+  </g>
+</g>
+
+<text x="64" y="386" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.6" fill="#5F6874">rawatvikas689@gmail.com</text>
+
+<g opacity="0.22" fill="none" stroke="#48D6D2" stroke-width="1.4">
+  <path class="drift2" d="M 660 210 C 790 150 900 250 1030 196 C 1120 158 1170 172 1240 150"/>
+  <path class="drift3" d="M 648 310 C 780 258 890 356 1024 304 C 1118 266 1168 284 1242 258"/>
+</g>
+
+<path d="M 720 362 C 806 362 838 322 896 298 C 962 270 992 222 1048 194 C 1096 170 1128 160 1170 152"
+      fill="none" stroke="#FF6B4A" stroke-width="3.4" stroke-linecap="round"
+      stroke-dasharray="700" stroke-dashoffset="700">
+  <animate attributeName="stroke-dashoffset" dur="13s" repeatCount="indefinite"
+           keyTimes="0;0.22;0.92;1" values="700;0;0;700"/>
+</path>
+
+<g>
+  <circle cx="720" cy="362" r="11" fill="#0B0E13" stroke="#48D6D2" stroke-width="2.6"/>
+  <circle cx="720" cy="362" r="4" fill="#F2B65A"/>
+  <circle cx="720" cy="362" r="11" fill="none" stroke="#48D6D2" stroke-width="1.6">
+    <animate attributeName="r" values="11;28" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="896" cy="298" r="11" fill="#0B0E13" stroke="#48D6D2" stroke-width="2.6"/>
+  <circle cx="896" cy="298" r="4" fill="#F2B65A"/>
+  <circle cx="896" cy="298" r="11" fill="none" stroke="#48D6D2" stroke-width="1.6">
+    <animate attributeName="r" values="11;28" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1170" cy="152" r="11" fill="#0B0E13" stroke="#FF6B4A" stroke-width="2.6"/>
+  <circle cx="1170" cy="152" r="4" fill="#F2B65A"/>
+  <circle cx="1170" cy="152" r="11" fill="none" stroke="#FF6B4A" stroke-width="1.6">
+    <animate attributeName="r" values="11;30" dur="2.8s" begin="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="2.8s" begin="1.8s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <text x="742" y="358" font-size="12.5" font-weight="700" letter-spacing="1.5" fill="#EDEAE2">FOUNDATIONS</text>
+  <text x="742" y="376" font-size="11.5" fill="#7A828C">html / css / javascript</text>
+
+  <text x="918" y="294" font-size="12.5" font-weight="700" letter-spacing="1.5" fill="#EDEAE2">INTERFACE CRAFT</text>
+  <text x="918" y="312" font-size="11.5" fill="#7A828C">react / redux / motion</text>
+
+  <text x="1148" y="124" font-size="12.5" font-weight="700" letter-spacing="1.5" fill="#EDEAE2" text-anchor="end">SHIPPED PRODUCTS</text>
+  <text x="1148" y="142" font-size="11.5" fill="#7A828C" text-anchor="end">performance / seo / scale</text>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 170" width="1280" height="170" role="img" aria-label="Thanks for scrolling - let's build something">
+<defs>
+  <linearGradient id="fg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0"    stop-color="#0B0E13"/>
+    <stop offset="0.55" stop-color="#101720"/>
+    <stop offset="1"    stop-color="#0B0E13"/>
+  </linearGradient>
+  <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF6B4A" stop-opacity="0.85"/>
+    <stop offset="1" stop-color="#7A5CFF" stop-opacity="0.85"/>
+  </linearGradient>
+  <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#48D6D2" stop-opacity="0.55"/>
+    <stop offset="1" stop-color="#FF6B4A" stop-opacity="0.55"/>
+  </linearGradient>
+</defs>
+
+<rect width="1280" height="170" fill="url(#fg)"/>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-640 0" dur="18s" repeatCount="indefinite"/>
+  <path fill="url(#wave2)" d="M 0 92 C 160 62 320 122 480 92 C 640 62 800 122 960 92 C 1120 62 1280 122 1440 92 C 1600 62 1760 122 1920 92 L 1920 170 L 0 170 Z"/>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-640 0" dur="11s" repeatCount="indefinite"/>
+  <path fill="url(#wave1)" d="M 0 118 C 160 94 320 146 480 118 C 640 90 800 142 960 118 C 1120 94 1280 146 1440 118 C 1600 90 1760 142 1920 118 L 1920 170 L 0 170 Z"/>
+</g>
+
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+  <text x="640" y="48" font-size="17" font-weight="700" letter-spacing="4.5" fill="#EDEAE2">THANKS FOR SCROLLING</text>
+  <text x="640" y="74" font-size="12" letter-spacing="2.2" fill="#7A828C">LET US BUILD SOMETHING WORTH SHIPPING</text>
+</g>
+
+<g fill="#F2B65A">
+  <circle cx="470" cy="42" r="2.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="810" cy="42" r="2.6"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
